@@ -1,0 +1,34 @@
+3					
+6					
+Partner1	Hamster	H1	brown	19	true
+Partner1	Hamster	H2	light-brown	15	true
+Partner1	Finch	F1	yellow	17	false
+Partner1	Finch	F2	burgundy	24	true
+Partner2	Tarantula	T1	blue	26	false
+Partner2	Tarantula	T2	black	13	false
+3					
+Partner3	Hamster	H2	light-brown	15	true
+Partner4	Finch	F1	yellow	17	false
+Partner5	Tarantula	T2	black	13	false
+6					
+Partner1	Hamster	H3	black	39	true
+Partner1	Hamster	H4	white	41	false
+Partner1	Hamster	H5	red	18	false
+Partner4	Finch	F1	yellow	17	false
+Partner2	Tarantula	T3	yellow-striped	31	true
+Partner2	Tarantula	T4	black	43	true
+4					
+Partner6	Hamster	H1	brown	19	true
+Partner6	Hamster	H3	black	39	true
+Partner7	Tarantula	T3	yellow-striped	31	true
+Partner8	Tarantula	T4	black	43	true
+6					
+Partner1	Hamster	H6	green	28	true
+Partner1	Finch	F3	red	49	false
+Partner1	Finch	F4	orange	17	false
+Partner1	Finch	F5	red	35	true
+Partner7	Tarantula	T3	yellow-striped	31	true
+Partner5	Tarantula	T2	black	13	false
+2					
+Partner9	Finch	F4	orange	17	false
+Partner10	Finch	F5	red	35	true

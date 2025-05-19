@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beadando", "PetShop\Beadando.csproj", "{372B964D-A1A6-41E5-88D5-1BF91C678CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{DC19C1F3-E332-451D-81A1-45A072B4EC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372B964D-A1A6-41E5-88D5-1BF91C678CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372B964D-A1A6-41E5-88D5-1BF91C678CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372B964D-A1A6-41E5-88D5-1BF91C678CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372B964D-A1A6-41E5-88D5-1BF91C678CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC19C1F3-E332-451D-81A1-45A072B4EC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC19C1F3-E332-451D-81A1-45A072B4EC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC19C1F3-E332-451D-81A1-45A072B4EC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC19C1F3-E332-451D-81A1-45A072B4EC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68772A22-A229-404F-9E0B-33A79AD91954}
+	EndGlobalSection
+EndGlobal
